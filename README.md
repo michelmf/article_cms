@@ -20,7 +20,7 @@ Below is a screenshot from the Python Web Application, viewing an article create
 
 The infrastructure of this project is humble, as depictec below.
 
-<img src="diagrams/cms_article_project.png" alt="drawing"/>
+<img src="diagrams/cms_article_project.png" alt="drawing" height=400 width=400/>
 
 ## Technologies used:
 
