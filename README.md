@@ -18,4 +18,19 @@ Below is a screenshot from the Python Web Application, viewing an article create
 
 ## Infrastructure of the project
 
+The infrastructure of this project is humble, as depictec below.
+
+<img src="diagrams/cms_article_project.png" alt="drawing"/>
+
+## Technologies used:
+
+* Pulumi
+
+* Python
+  * Flask
+  * Diagrams
+
+* Github Actions
+* Microsoft Azure
+
 
