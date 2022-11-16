@@ -16,17 +16,21 @@ Below is a screenshot from the Python Web Application, viewing an article create
 
 ![](https://video.udacity-data.com/topher/2020/March/5e6f8ed6_article-cms/article-cms.png)
 
+The project must follow the [project rubric](https://review.udacity.com/#!/rubrics/4708/view). The starter code for this project is found [here](https://github.com/udacity/cd1756-Azure-Applications-project). The screenshots for the rubric are saved in the [*project_rubic*]() folder.
+
 ## Infrastructure of the project
 
 The infrastructure of this project is simple, as depictec below.
 
 <img src="diagrams/cms_article_project.png" alt="drawing" height=400 width=400 class=center/>
 
+In order to speed up and make the process replicable, I created the infrastructure on azure using [Terraform](https://www.terraform.io/).
 ## Technologies used
 
 * Terraform
 * Python
-* Github Actions
 * Microsoft Azure
 
+## Future developments
 
+* CI/CD pipelines (using github actions)
