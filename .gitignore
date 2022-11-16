@@ -1,1 +1,7 @@
-.notebook
+# Terraform configuration files
+.terraform*
+*tfstate*
+
+# Variable with deployment variables of this project.
+article_cms.tfvars
+
